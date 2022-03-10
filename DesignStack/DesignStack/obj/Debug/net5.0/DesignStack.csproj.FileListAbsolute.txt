@@ -1,0 +1,16 @@
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\DesignStack.exe
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\DesignStack.deps.json
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\DesignStack.runtimeconfig.json
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\DesignStack.runtimeconfig.dev.json
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\DesignStack.dll
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\ref\DesignStack.dll
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\bin\Debug\net5.0\DesignStack.pdb
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.csproj.AssemblyReference.cache
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.AssemblyInfoInputs.cache
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.AssemblyInfo.cs
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.dll
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\ref\DesignStack.dll
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.pdb
+C:\Users\jhuli\source\repos\DesignStack\DesignStack\obj\Debug\net5.0\DesignStack.genruntimeconfig.cache

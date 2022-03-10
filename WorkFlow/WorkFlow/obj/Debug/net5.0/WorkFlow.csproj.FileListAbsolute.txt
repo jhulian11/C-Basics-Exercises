@@ -1,0 +1,16 @@
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\WorkFlow.exe
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\WorkFlow.deps.json
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\WorkFlow.runtimeconfig.json
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\WorkFlow.runtimeconfig.dev.json
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\WorkFlow.dll
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\ref\WorkFlow.dll
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\bin\Debug\net5.0\WorkFlow.pdb
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.csproj.AssemblyReference.cache
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.AssemblyInfoInputs.cache
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.AssemblyInfo.cs
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.dll
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\ref\WorkFlow.dll
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.pdb
+C:\Users\jhuli\source\repos\WorkFlow\WorkFlow\obj\Debug\net5.0\WorkFlow.genruntimeconfig.cache

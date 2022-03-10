@@ -1,0 +1,15 @@
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\Operetors.exe
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\Operetors.deps.json
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\Operetors.runtimeconfig.json
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\Operetors.runtimeconfig.dev.json
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\Operetors.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\ref\Operetors.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\bin\Debug\net5.0\Operetors.pdb
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.AssemblyInfoInputs.cache
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.AssemblyInfo.cs
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\ref\Operetors.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.pdb
+C:\Users\jhuli\source\repos\CursoUnityC#\Operetors\Operetors\obj\Debug\net5.0\Operetors.genruntimeconfig.cache

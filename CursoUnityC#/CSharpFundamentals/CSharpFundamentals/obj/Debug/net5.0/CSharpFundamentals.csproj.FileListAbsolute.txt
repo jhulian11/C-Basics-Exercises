@@ -1,0 +1,16 @@
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.exe
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.deps.json
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\ref\CSharpFundamentals.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.pdb
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\ref\CSharpFundamentals.dll
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.pdb
+C:\Users\jhuli\source\repos\CursoUnityC#\CSharpFundamentals\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.genruntimeconfig.cache

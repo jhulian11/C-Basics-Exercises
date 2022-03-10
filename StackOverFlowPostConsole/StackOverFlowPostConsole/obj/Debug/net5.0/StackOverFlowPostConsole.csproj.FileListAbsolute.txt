@@ -1,0 +1,16 @@
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\StackOverFlowPostConsole.exe
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\StackOverFlowPostConsole.deps.json
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\StackOverFlowPostConsole.runtimeconfig.json
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\StackOverFlowPostConsole.runtimeconfig.dev.json
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\StackOverFlowPostConsole.dll
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\ref\StackOverFlowPostConsole.dll
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\bin\Debug\net5.0\StackOverFlowPostConsole.pdb
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.csproj.AssemblyReference.cache
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.AssemblyInfoInputs.cache
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.AssemblyInfo.cs
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.dll
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\ref\StackOverFlowPostConsole.dll
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.pdb
+C:\Users\jhuli\source\repos\StackOverFlowPostConsole\StackOverFlowPostConsole\obj\Debug\net5.0\StackOverFlowPostConsole.genruntimeconfig.cache
