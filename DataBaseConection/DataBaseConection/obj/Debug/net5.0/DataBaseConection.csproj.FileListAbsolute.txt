@@ -1,0 +1,16 @@
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\DataBaseConection.exe
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\DataBaseConection.deps.json
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\DataBaseConection.runtimeconfig.json
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\DataBaseConection.runtimeconfig.dev.json
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\DataBaseConection.dll
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\ref\DataBaseConection.dll
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\bin\Debug\net5.0\DataBaseConection.pdb
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.csproj.AssemblyReference.cache
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.AssemblyInfoInputs.cache
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.AssemblyInfo.cs
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.csproj.CoreCompileInputs.cache
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.dll
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\ref\DataBaseConection.dll
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.pdb
+C:\Users\jhuli\source\repos\DataBaseConection\DataBaseConection\obj\Debug\net5.0\DataBaseConection.genruntimeconfig.cache
